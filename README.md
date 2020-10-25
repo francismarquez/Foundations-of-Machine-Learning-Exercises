@@ -3,4 +3,4 @@ This serves as a respository for my submissions in the class CoE 197-M: [Foundat
 
 ---
 
-- **[Exercise 1:](https://github.com/francismarquez/Foundations-of-Machine-Learning-Exercises/tree/master/exercise-1)** Position Encoding
+- **[Exercise 1:](https://github.com/francismarquez/Foundations-of-Machine-Learning-Exercises/tree/main/exercise-1)** Position Encoding
