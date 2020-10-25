@@ -1,1 +1,1 @@
-GitHub has a recurring issue on loading Jupyter Notebooks. In case it doesn't load, you may view the notebook [here](https://colab.research.google.com/drive/1auMmtLFG999eUTatOA83WjdfIlac-42a?usp=sharing)
+GitHub has a recurring issue on loading Jupyter Notebooks. In case it doesn't load, you may view the notebook [here](https://colab.research.google.com/github/francismarquez/Foundations-of-Machine-Learning-Exercises/blob/main/exercise-1/exercise-1.ipynb)
