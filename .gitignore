@@ -13,3 +13,8 @@
 # End of https://www.toptal.com/developers/gitignore/api/vscode
 
 __pycache__/
+
+exercise-3/data/*
+exercise-3/img/*
+
+settings.json
