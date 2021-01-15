@@ -1,0 +1,1 @@
+GitHub has a recurring issue on loading Jupyter Notebooks. In case it doesn't load, you may view the notebook [here](https://colab.research.google.com/github/francismarquez/Foundations-of-Machine-Learning-Exercises/blob/main/exercise-3/exercise-3.ipynb)
